@@ -1,3 +1,7 @@
 This happens to be our test file
 Making changes to create conflict**
+<<<<<<< HEAD
 **These changes are made at local repository**
+=======
+Changes made at Remote repository
+>>>>>>> ec28d393cab4a9546acc4ce6e075141fd704f6a8
