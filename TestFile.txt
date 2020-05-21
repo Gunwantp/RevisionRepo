@@ -1,1 +1,2 @@
 This happens to be our test file
+Making changes to create conflict**
